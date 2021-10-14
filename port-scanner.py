@@ -36,6 +36,6 @@ def start_program(url):
 
                 scanin(url,port)
 
-url = input("Enter url or IP Address")
+url = input("Enter url or IP Address: ")
 
 start_program(url)
